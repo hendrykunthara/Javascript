@@ -67,6 +67,8 @@ console.log (numbers);
 
 ABCD
 123
+1223
+12452665
 
 
 
